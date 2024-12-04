@@ -9,7 +9,7 @@ Kickstart your project with this Gulp-based workflow.
 Clone this repository into your local project directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/HelloTalib/gulp-starter-kit.git
 ```
 
 Alternatively, download the repository and extract it to a folder.
